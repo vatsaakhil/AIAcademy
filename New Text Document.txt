@@ -1,0 +1,67 @@
+dROTaGe3otusw4kIB@aJ
+
+1Jyh715%AgpsIw_C*Bq1F^
+
+Shell-> USKPFI, Non-Shell->USJEQH, Treat as Nom-Shell->NGTTE9, 
+Treat as Shell-> TPDKMMU0
+
+2->JV JV Non Shell
+1->JV JV Treat as Non Shell
+update users set password='7218081a1a8850de3ee524f5c17cf1c70ffe2db5' where username ='';  
+
+Owners:
+1- ARACA4
+3- INSAIA
+4- INLPAS
+5- DENKO1
+9- MYIMAE
+8- SGLECC01
+2- AUGEL2
+6- INSUJX
+1- INSYBS
+Exec- DERFI1
+
+No Rehire columns(access, scope); for Identity View-> Y and Identity Edit-> N, roles will still have Edit-> Y for this release
+Update Executive User
+
+
+
+shell testing info--- shell-shell
+western power-- jv-jv
+test location- tp-tp_n
+test company sit 01-jv-jv
+nontpa company-shell-shell
+shell exploration- tp-tp
+sanity api cr12- tp-tp_n
+ui_demmy- tp-TP_S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
